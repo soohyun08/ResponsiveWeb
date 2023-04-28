@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "NeueMontreal-Bold";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url(../common/fonts.css/NeueMontreal-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NeueMontreal-Medium";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url(../common/fonts.css/NeueMontreal-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "NeueMontreal-Regular";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url(../common/fonts.css/NeueMontreal-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "PPEditorialNew-Ultralight";
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src: url(../common/fonts.css/PPEditorialNew-Ultralight.woff2) format("woff2");
+}

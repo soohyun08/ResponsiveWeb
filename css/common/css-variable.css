@@ -1,0 +1,16 @@
+@charset "utf=8";
+
+:root {
+  --font_NM-b: "NeueMontreal-Bold", "Arial", -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+
+  --font_NM-m: "NeueMontreal-Medium", "Arial", -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+
+  --font_NM-r: "NeueMontreal-Regular", "Arial", -apple-system,
+    BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", helvetica,
+    "Apple SD Gothic Neo", sans-serif;
+
+  --font_Inst: "Instrument Serif", -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+}
